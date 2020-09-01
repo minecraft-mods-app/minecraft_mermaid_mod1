@@ -12,5 +12,6 @@
 "is_show_native":true,
 "is_load_failed":true,
 "ads_click_main_percents":50,
-"isAdmob":false
+"is_show_splash_inter":true,
+"isAdmob":true
 }
